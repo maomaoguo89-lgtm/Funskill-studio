@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="FunSkill Studio" width="440">
+</p>
+
 # FunSkill Studio Connector
 
 把你的 AI 助手接到 **FunSkill 工作室**：一句话找到技能、买断使用、在对话里直接产出成果。
