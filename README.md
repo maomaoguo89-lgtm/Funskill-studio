@@ -1,4 +1,5 @@
-<p align="center"><img src="logo.png" alt="FunSkill Studio" width="360"></p>
+<p align="center"><img src="logo.png" alt="FunSkill Studio"></p>
+
 
 
 # FunSkill Studio Connector
