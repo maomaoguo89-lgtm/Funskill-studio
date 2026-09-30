@@ -1,4 +1,6 @@
-<p align="center"><img src="logo.png" alt="FunSkill Studio"></p>
+<p align="center"><img src="logo.png" alt="FunSkill Studio" width="460"></p>
+
+
 
 
 
