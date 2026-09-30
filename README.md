@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.png" alt="FunSkill Studio" width="440">
-</p>
-
 # FunSkill Studio Connector
 
 把你的 AI 助手接到 **FunSkill 工作室**：一句话找到技能、买断使用、在对话里直接产出成果。
@@ -38,11 +34,11 @@ FunSkill 是**买断制，两层授权**：
 
 ### 安全
 
-技能内容服务端逐文件授权下发（不整包暴露）、带隐形水印可溯源；开源社区技能请先自检再使用。
+技能内容服务端**整包 ZIP 授权下发**、带隐形水印可溯源；开源社区技能请先自检再使用。
 
 ### 协议
 
-MIT — 见 `LICENSE`。**本项目不接受外部拉取请求（Pull Request）**；如有问题请在 Issues 反馈。技能内容本身不在 MIT 范围内，由 FunSkill 服务端授权后逐文件下发。
+MIT — 见 `LICENSE`。**本项目不接受外部拉取请求（Pull Request）**；如有问题请在 Issues 反馈。技能内容本身不在 MIT 范围内，由 FunSkill 服务端授权后**整包下发**。
 
 ---
 
@@ -73,8 +69,8 @@ Browsing the marketplace (`list_market`) and opening pages (`open_app`) work ano
 
 ### Security
 
-Skill content is served file-by-file after authorization (never as a whole package) and carries invisible watermarks for traceability. Self-review open-source community skills before use.
+Skill content is served **as a whole ZIP package** after authorization and carries invisible watermarks for traceability. Self-review open-source community skills before use.
 
 ### License
 
-MIT — see `LICENSE`. **External pull requests are not accepted**; please open an issue for questions. Skill content itself is not covered by MIT and is delivered by the FunSkill server after authorization.
+MIT — see `LICENSE`. **External pull requests are not accepted**; please open an issue for questions. Skill content itself is not covered by MIT and is delivered **as a whole ZIP package** by the FunSkill server after authorization.
